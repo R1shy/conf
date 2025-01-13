@@ -20,12 +20,7 @@ return {
   opts = {
     servers = {
       rust_analyzer = {},
-      gopls = {},
-      clangd = {},
       lua_ls = {},
-      cssls = {},
-      html = {},
-
   }},
 	config = function(_, opts)
     local lspconfig = require('lspconfig')
@@ -46,9 +41,5 @@ return {
         { path = "${3rd}/luv/library", words = { "vim%.uv" } },
       },
     },
-
-    {
-    "williamboman/mason.nvim"
-    }
-  }
+}
 }
