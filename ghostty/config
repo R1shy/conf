@@ -1,4 +1,0 @@
-theme = "/home/rishy/.config/ghostty/tokyonight_night"
-window-decoration = false
-command = /usr/bin/fish
-confirm-close-surface = false
