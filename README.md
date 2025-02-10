@@ -10,5 +10,5 @@ deps:
 - neovim
 - arch linux
 - a wifi connection
-- an AUR helper I use [yay] (https://github.com/Jguer/yay) 
+- an AUR helper I use [yay](https://github.com/Jguer/yay) 
 ```
