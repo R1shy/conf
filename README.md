@@ -5,7 +5,7 @@ this is my config for both my laptop and desktop.
 deps:
 ```
 - waybar
-- hyprland (preferably from source
+- hyprland (preferably from source)
 - rofi
 - neovim
 - arch linux
