@@ -1,0 +1,99 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">d3E=</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="example-958dc110">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/example/README.md" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/example/lib/main.dart" protocol="file" />
+    </project>
+    <project id="Todo-4e27be80">
+      <jump line="13" column="6" filename="$USER_HOME$/Documents/Todo/app/src/main/java/com/example/todo/FirstFragment.kt" protocol="file" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/Todo/app/src/main/java/com/example/todo/FirstFragment.kt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Todo/app/src/main/java/com/example/todo/MainActivity.kt" protocol="file" />
+      <jump line="26" column="60" filename="$USER_HOME$/Documents/Todo/app/src/main/java/com/example/todo/MainActivity.kt" protocol="file" />
+      <jump line="8" column="20" filename="$USER_HOME$/Documents/Todo/app/src/main/res/layout/content_main.xml" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Todo/app/src/main/res/layout/content_main.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Todo/app/src/main/res/layout/fragment_first.xml" protocol="file" />
+      <jump line="9" column="18" filename="$USER_HOME$/Documents/Todo/app/src/main/res/values/strings.xml" protocol="file" />
+      <jump line="42" column="86" filename="$USER_HOME$/Documents/Todo/app/src/main/res/values/strings.xml" protocol="file" />
+      <jump line="23" column="8" filename="$USER_HOME$/Documents/Todo/app/src/main/res/layout/fragment_first.xml" protocol="file" />
+      <jump line="21" column="4" filename="$USER_HOME$/Documents/Todo/app/src/main/res/layout/fragment_first.xml" protocol="file" />
+      <jump line="8" column="4" filename="$USER_HOME$/Documents/Todo/app/src/main/res/layout/fragment_first.xml" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/Documents/example/README.md" timestamp="1738115997617">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Todo/app/src/main/java/com/example/todoapp/NewTask.kt" timestamp="1738298675471">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Todo/app/src/main/res/values/strings.xml" timestamp="1738128420238">
+        <mark key="&quot;" line="9" column="47" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="9" column="47" />
+        <mark key="^" line="9" column="48" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsID0geyBUZXh0KCJUaXRsZSIpIH0K</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uVmFsdWVDaGFuZ2UgPSB7IFRpdGxlID0gaXQgfSwK</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gVGl0bGUsCg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dEZpZWxkKAo=</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ24gPSBUZXh0QWxpZ24uRW5kCg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">d3E=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">ZnRoaXMgaXNpICBzcG1wb21ldGV4IHRleHQ6</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

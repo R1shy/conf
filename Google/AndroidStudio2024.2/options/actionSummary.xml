@@ -1,0 +1,241 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="2" l="1738128527051" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1738213805014" />
+    </e>
+    <e n="$Undo">
+      <i c="97" l="1738375515526" />
+    </e>
+    <e n="Android.AdbDevicePairing">
+      <i c="7" l="1738216628133" />
+    </e>
+    <e n="Android.CreateResourceDirectory">
+      <i c="1" l="1738211272917" />
+    </e>
+    <e n="Android.DeviceManager2">
+      <i c="1" l="1738127494849" />
+    </e>
+    <e n="AttachDebuggerAction">
+      <i c="2" l="1738127550544" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="5" l="1738283217850" />
+    </e>
+    <e n="DeveloperServices.ConnectionAssistant">
+      <i c="2" l="1738216599818" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2274" l="1738375793165" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="396" l="1738375799689" />
+    </e>
+    <e n="EditorCopy">
+      <i c="15" l="1738375769089" />
+    </e>
+    <e n="EditorCut">
+      <i c="8" l="1738375513143" />
+    </e>
+    <e n="EditorDelete">
+      <i c="1" l="1738282187971" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="412" l="1738375787608" />
+    </e>
+    <e n="EditorDown">
+      <i c="465" l="1738375799448" />
+    </e>
+    <e n="EditorEnter">
+      <i c="344" l="1738375791181" />
+    </e>
+    <e n="EditorEscape">
+      <i c="7" l="1738298754727" />
+    </e>
+    <e n="EditorLeft">
+      <i c="340" l="1738375811394" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1738209852016" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="150" l="1738375278731" />
+    </e>
+    <e n="EditorPaste">
+      <i c="34" l="1738375766648" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="103" l="1738375277857" />
+    </e>
+    <e n="EditorRight">
+      <i c="512" l="1738375810906" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="2" l="1738374945622" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1738281625722" />
+    </e>
+    <e n="EditorTab">
+      <i c="194" l="1738375387123" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="4" l="1738209852035" />
+    </e>
+    <e n="EditorUp">
+      <i c="262" l="1738375484216" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1738298701224" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="7" l="1738218789566" />
+    </e>
+    <e n="Kotlin.NewFile">
+      <i c="5" l="1738283207921" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1738214203143" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="2" l="1738202046467" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="5" l="1738213489587" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1738216690030" />
+    </e>
+    <e n="Run">
+      <i c="143" l="1738300742353" />
+    </e>
+    <e n="SaveAll">
+      <i c="351" l="1738375812323" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1738283427821" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="7" l="1738375750507" />
+    </e>
+    <e n="ShowSettings">
+      <i c="6" l="1738127289764" />
+    </e>
+    <e n="Stop">
+      <i c="7" l="1738300755522" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1738375657450" />
+    </e>
+    <e n="VimPluginToggle">
+      <i c="3" l="1738298681223" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1738200046120" />
+    </e>
+    <e n="android.device.screenshot">
+      <i c="1" l="1738127102292" />
+    </e>
+    <e n="android.streaming.ui.settings">
+      <i c="1" l="1738127097097" />
+    </e>
+    <e n="com.android.build.output.LongDownloadsNotifier$notifyIfTimeElapsed$1$1">
+      <i c="1" l="1738127989970" />
+    </e>
+    <e n="com.android.tools.adtui.actions.DropDownAction">
+      <i c="3" l="1738216618067" />
+    </e>
+    <e n="com.android.tools.adtui.stdui.KeyBindingKt$registerActionShortCutSet$actionObject$1">
+      <i c="1" l="1738128367790" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeviceManagerPanel$toAnAction$2">
+      <i c="3" l="1738216619913" />
+    </e>
+    <e n="com.android.tools.idea.run.deployment.selector.SelectDeviceAction">
+      <i c="1" l="1738219544933" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowManager$NewTabAction">
+      <i c="1" l="1738126986413" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowManager$StartDeviceMirroringAction">
+      <i c="1" l="1738126989030" />
+    </e>
+    <e n="com.android.tools.idea.ui.resourcemanager.actions.AddFontAction">
+      <i c="1" l="1738211325664" />
+    </e>
+    <e n="com.android.tools.idea.ui.resourcemanager.actions.NewResourceFileAction">
+      <i c="2" l="1738218627052" />
+    </e>
+    <e n="com.android.tools.idea.ui.resourcemanager.explorer.AddAction">
+      <i c="7" l="1738218629698" />
+    </e>
+    <e n="com.android.tools.idea.ui.resourcemanager.explorer.RefreshAction">
+      <i c="2" l="1738200954732" />
+    </e>
+    <e n="com.android.tools.idea.ui.resourcemanager.explorer.ResourceExplorerToolbarViewModel$ImportResourceAction">
+      <i c="3" l="1738218631446" />
+    </e>
+    <e n="com.android.tools.idea.ui.resourcemanager.importer.ResourceImportDialog$createImportButtonAction$importAction$1">
+      <i c="1" l="1738218641854" />
+    </e>
+    <e n="com.android.tools.idea.ui.resourcemanager.widget.OverflowingTabbedPaneUI$OverflowPopupAction">
+      <i c="1" l="1738211314999" />
+    </e>
+    <e n="com.android.tools.idea.ui.resourcemanager.widget.OverflowingTabbedPaneUI$OverflowPopupAction$actionPerformed$actions$1$1">
+      <i c="1" l="1738211316172" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$1">
+      <i c="1" l="1738209100077" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="2" l="1738299070837" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$ModeAction">
+      <i c="1" l="1738298712803" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="1" l="1738298708221" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="1" l="1738298708938" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1738127085565" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="58" l="1738298674479" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="18" l="1738374860818" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
+      <i c="2" l="1738125332075" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1738283428336" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="48" l="1738300151591" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="8" l="1738298679191" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="21" l="1738374875234" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="1" l="1738128420079" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1738127931444" />
+    </e>
+    <e n="flutter.NewProject.welcome">
+      <i c="1" l="1738115884013" />
+    </e>
+    <e n="io.flutter.actions.RestartFlutterDaemonAction">
+      <i c="2" l="1738126132900" />
+    </e>
+  </component>
+</application>

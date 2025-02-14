@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/React-Stuff" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/React-Stuff" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/WebstormProjects" />
+        <option value="$USER_HOME$/Documents" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/WebstormProjects/React-Stuff">
+          <value>
+            <RecentProjectMetaInfo frameTitle="React-Stuff" projectWorkspaceId="2sbGQbXjxgG4biFZngw3P1IaYoM">
+              <option name="activationTimestamp" value="1738717084758" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-243.23654.157" />
+              <option name="buildTimestamp" value="1737640740000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="965" y="60" width="935" height="1120" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1738716846367" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/React-Stuff">
+          <value>
+            <RecentProjectMetaInfo frameTitle="React-Stuff – Header.tsx" opened="true" projectWorkspaceId="2sbGueO6AntMyvX2OBpdgkcU08x">
+              <option name="activationTimestamp" value="1738983780895" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-243.23654.157" />
+              <option name="buildTimestamp" value="1737640740000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="20" y="60" width="1880" height="1120" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1738717084293" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/React-Stuff" />
+  </component>
+</application>
