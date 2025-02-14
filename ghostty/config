@@ -1,0 +1,4 @@
+theme = "/home/rishy/.config/ghostty/tokyonight_night"
+window-decoration = false
+confirm-close-surface = false
+command = bash
