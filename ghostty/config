@@ -1,4 +1,3 @@
-theme = "/home/rishy/.config/ghostty/tokyonight_night"
-window-decoration = false
+theme = "/home/rishy/.config/ghostty/gruvbox-dark"
 confirm-close-surface = false
 command = bash

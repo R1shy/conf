@@ -21,7 +21,7 @@ require("lazy").setup({
   spec = {
     { import = "plugins" },
   },
-  install = { colorscheme = { "toyonight" } },
+  install = { colorscheme = { "gruvbox" } },
   checker = { enabled = true },
 })
 require('config.autocmds')
