@@ -33,7 +33,7 @@ local config = {
   options = {
     component_separators = '',
     section_separators = '',
-    theme = "tokyonight"
+    theme = "gruvbox"
   },
   sections = {
     -- these are to remove the defaults
