@@ -1,0 +1,8 @@
+:q
+clear
+f / 0
+f = null
+4 / 0
+2 + 15
+clear
+ls
