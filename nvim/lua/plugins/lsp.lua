@@ -22,7 +22,7 @@ return {
       rust_analyzer = {},
       lua_ls = {},
       clangd = {},
-      pyright = {},
+      asm_lsp = {}
   }},
 	config = function(_, opts)
     local lspconfig = require('lspconfig')
