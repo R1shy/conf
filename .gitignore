@@ -22,3 +22,5 @@ user-dirs.locale
 glib-2.0/
 pip/
 nvim/lazy-lock.json
+xsettingsd/
+nwg-look/
