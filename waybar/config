@@ -19,13 +19,13 @@
     },
     "network": {
         "format": "{icon}",
-        "format-wifi": "<span font='Font Awesome 5 Free 10'></span> {essid}",
+        "format-wifi": "<span font='Font Awesome 5 Free 10'> </span> {essid}",
         "format-disconnected": "⚠ Disconnected",
         "tooltip": false
     },
     "pulseaudio": {
-        "format": "<span font='Font Awesome 5 Free 11'>{icon:2}</span>{volume}%",
-        "format-alt": "<span font='Font Awesome 5 Free 11'>{icon:2}</span>{volume}%",
+        "format": "<span font='Font Awesome 5 Free 11'>{icon:2}</span> {volume}%",
+        "format-alt": "<span font='Font Awesome 5 Free 11'>{icon:2}</span> {volume}%",
         "format-alt-click": "click-right",
         "format-muted": "<span font='Font Awesome 5 Free 11'></span>",
         "format-icons": {
