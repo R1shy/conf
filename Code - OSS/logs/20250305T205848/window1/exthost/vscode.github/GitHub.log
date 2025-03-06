@@ -1,0 +1,4 @@
+2025-03-05 20:58:50.347 [info] Log level: Info
+2025-03-05 20:59:06.689 [info] Log level: Info
+2025-03-05 20:59:12.987 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-03-05 20:59:15.046 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for R1shy/conf: Error: No GitHub authentication session available.
