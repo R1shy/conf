@@ -1,6 +1,8 @@
 vim.cmd [[set number]]
+vim.cmd [[colorscheme industry]]
+
 vim.diagnostic.config({
-  virtual_text = true, -- Ensures virtual text is always shown
+  virtual_text = true,
 })
 
 local function stop_high_id_clients()
