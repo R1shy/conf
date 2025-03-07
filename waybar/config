@@ -19,6 +19,7 @@
     },
     "network": {
         "format": "{icon}",
+        "format-wifi": "<span font='Font Awesome 5 Free 10'> </span> {essid}",
         "format-wifi": "<span font='Font Awesome 5 Free 10'> </span>{essid}",
         "format-disconnected": "⚠ Disconnected",
         "tooltip": false
