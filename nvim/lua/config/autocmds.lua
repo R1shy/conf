@@ -1,5 +1,5 @@
 vim.cmd [[set number]]
-vim.cmd [[colorscheme industry]]
+vim.cmd [[colorscheme gruvbox]]
 
 vim.diagnostic.config({
   virtual_text = true,
