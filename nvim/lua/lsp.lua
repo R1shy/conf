@@ -1,27 +1,24 @@
+-- Initialize Packer and add plugins
 require('pckr').add({
-	
   'hrsh7th/nvim-cmp',
   'hrsh7th/cmp-nvim-lsp',
   'hrsh7th/cmp-buffer',
   'hrsh7th/cmp-path',
   'hrsh7th/cmp-cmdline',
-  'L3MON4D3/LuaSnip',            -- For luasnip users
-  'saadparwaiz1/cmp_luasnip',    -- For luasnip integration
-  'neovim/nvim-lspconfig'
+  'L3MON4D3/LuaSnip',
+  'saadparwaiz1/cmp_luasnip',
+  'neovim/nvim-lspconfig',
+  'rafamadriz/friendly-snippets',  -- Ensure this line is present
 })
 
+-- Configure nvim-cmp
 local cmp = require'cmp'
-local lspconfig = require('lspconfig')
-
-local servers = { 'clangd', 'rust_analyzer', 'lua_ls' }
-
 cmp.setup({
   snippet = {
     expand = function(args)
+      require("luasnip.loaders.from_vscode").lazy_load()
       require('luasnip').lsp_expand(args.body)
     end,
-  },
-  window = {
   },
   mapping = cmp.mapping.preset.insert({
     ['<C-b>'] = cmp.mapping.scroll_docs(-4),
@@ -32,15 +29,20 @@ cmp.setup({
   }),
   sources = cmp.config.sources({
     { name = 'nvim_lsp' },
-    { name = 'luasnip' },     -- For luasnip users.
+    { name = 'luasnip' },  -- For LuaSnip users
   }, {
     { name = 'buffer' },
   })
 })
 
+-- Set up LSP servers
+local lspconfig = require('lspconfig')
+local servers = { 'clangd', 'rust_analyzer', 'lua_ls', 'jdtls' }
 for _, lsp in ipairs(servers) do
   lspconfig[lsp].setup {
     capabilities = require('cmp_nvim_lsp').default_capabilities(),
   }
 end
 
+-- Load friendly-snippets
+require("luasnip.loaders.from_vscode").lazy_load()
