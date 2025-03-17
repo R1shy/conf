@@ -8,7 +8,8 @@ require('pckr').add({
   'L3MON4D3/LuaSnip',
   'saadparwaiz1/cmp_luasnip',
   'neovim/nvim-lspconfig',
-  'rafamadriz/friendly-snippets',  -- Ensure this line is present
+  'rafamadriz/friendly-snippets',
+  "S1M0N38/love2d.nvim",
 })
 
 -- Configure nvim-cmp
@@ -35,7 +36,6 @@ cmp.setup({
   })
 })
 
--- Set up LSP servers
 local lspconfig = require('lspconfig')
 local servers = { 'clangd', 'rust_analyzer', 'lua_ls', 'jdtls' }
 for _, lsp in ipairs(servers) do
@@ -43,6 +43,9 @@ for _, lsp in ipairs(servers) do
     capabilities = require('cmp_nvim_lsp').default_capabilities(),
   }
 end
-
--- Load friendly-snippets
 require("luasnip.loaders.from_vscode").lazy_load()
+
+require('love2d').setup({
+	path_to_love_bin="/usr/bin/love"
+
+})
