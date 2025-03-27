@@ -37,13 +37,34 @@ cmp.setup({
 })
 
 local lspconfig = require('lspconfig')
-local servers = { 'clangd', 'rust_analyzer', 'lua_ls', 'jdtls' }
+local servers = { 'clangd', 'rust_analyzer', 'jdtls', 'pyright' }
 for _, lsp in ipairs(servers) do
   lspconfig[lsp].setup {
     capabilities = require('cmp_nvim_lsp').default_capabilities(),
   }
 end
+
+require'lspconfig'.lua_ls.setup {
+    settings = {
+        Lua = {
+            runtime = {
+                version = 'LuaJIT',
+            },
+            workspace = {
+                library = {
+                    "/home/rishy/repos/lovr-docs",
+                },
+                checkThirdParty = false,
+            },
+        },
+    },
+}
+
+
+
 require("luasnip.loaders.from_vscode").lazy_load()
+
+
 
 require('love2d').setup({
 	path_to_love_bin="/usr/bin/love"
