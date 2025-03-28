@@ -25,4 +25,3 @@ alias reboot='sudo reboot'
 alias shutdown='sudo shutdown'
 alias pyin='pip install --break-system-packages'
 alias get_idf='. $HOME/esp/esp-idf/export.sh'
-alias nvim_all="find . -name '.?*' -prune -o -type f -exec nvim {} +"
