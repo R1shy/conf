@@ -70,3 +70,8 @@ require('love2d').setup({
 	path_to_love_bin="/usr/bin/love"
 
 })
+
+vim.diagnostic.config({
+  virtual_text = { current_line = true }
+})
+
