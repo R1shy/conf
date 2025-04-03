@@ -9,7 +9,6 @@ require('pckr').add({
   'saadparwaiz1/cmp_luasnip',
   'neovim/nvim-lspconfig',
   'rafamadriz/friendly-snippets',
-  "S1M0N38/love2d.nvim",
 })
 
 -- Configure nvim-cmp
@@ -37,7 +36,7 @@ cmp.setup({
 })
 
 local lspconfig = require('lspconfig')
-local servers = { 'clangd', 'rust_analyzer', 'jdtls', 'pyright' }
+local servers = { 'clangd', 'rust_analyzer', 'jdtls', 'pyright', 'bashls'}
 for _, lsp in ipairs(servers) do
   lspconfig[lsp].setup {
     capabilities = require('cmp_nvim_lsp').default_capabilities(),
@@ -59,17 +58,7 @@ require'lspconfig'.lua_ls.setup {
         },
     },
 }
-
-
-
 require("luasnip.loaders.from_vscode").lazy_load()
-
-
-
-require('love2d').setup({
-	path_to_love_bin="/usr/bin/love"
-
-})
 
 vim.diagnostic.config({
   virtual_text = { current_line = true }
