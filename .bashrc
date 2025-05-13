@@ -8,3 +8,5 @@ alias gpl='git pull'
 . "$HOME/.cargo/env"
 eval "$(starship init bash)"
 export EDITOR=nvim
+
+export PATH="/home/rishy/.local/bin:$PATH"
