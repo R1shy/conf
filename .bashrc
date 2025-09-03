@@ -5,8 +5,8 @@ alias gaa='g add .'
 alias gcm='g commit -m'
 alias gp='git push'
 alias gpl='git pull'
-. "$HOME/.cargo/env"
-eval "$(starship init bash)"
 export EDITOR=nvim
-
 export PATH="/home/rishy/.local/bin:$PATH"
+export PS1="\u@\h-> "
+export ROCM_PATH=/opt/rocm
+export HSA_OVERRIDE_GFX_VERSION=10.3.0

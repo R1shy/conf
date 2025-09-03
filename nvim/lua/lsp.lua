@@ -36,11 +36,9 @@ cmp.setup({
 })
 
 local lspconfig = require('lspconfig')
-local servers = { 'clangd', 'rust_analyzer', 'jdtls', 'pyright', 'bashls', 'gopls'}
+local servers = { 'clangd', 'rust_analyzer', 'jdtls', 'pyright', 'bashls', 'gopls', 'docker_compose_language_service', 'docker_language_server'}
 for _, lsp in ipairs(servers) do
-  lspconfig[lsp].setup {
-    capabilities = require('cmp_nvim_lsp').default_capabilities(),
-  }
+  vim.lsp.enable(lsp)
 end
 
 require'lspconfig'.lua_ls.setup {
