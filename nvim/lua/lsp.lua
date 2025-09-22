@@ -36,7 +36,7 @@ cmp.setup({
 })
 
 local lspconfig = require('lspconfig')
-local servers = { 'clangd', 'rust_analyzer', 'jdtls', 'pyright', 'bashls', 'gopls', 'docker_compose_language_service', 'docker_language_server'}
+local servers = { 'clangd', 'rust_analyzer', 'jdtls', 'pyright', 'bashls', 'gopls', 'docker_compose_language_service', 'docker_language_server', 'fortls'}
 for _, lsp in ipairs(servers) do
   vim.lsp.enable(lsp)
 end

@@ -2,7 +2,7 @@
     "layer": "top",
     "position": "top",
     "height": 40,
-    "modules-left": ["hyprland/window"],
+    "modules-left": [],
     "modules-center": ["clock"],
     "modules-right": ["pulseaudio", "backlight", "network"],
 
