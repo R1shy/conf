@@ -1,8 +1,0 @@
-[Added Associations]
-application/x-msdownload=wine-2.desktop;
-text/plain=nvim-3.desktop;nvim-2.desktop;
-
-[Default Applications]
-application/x-msdownload=wine-2.desktop;
-text/plain=nvim-3.desktop;
-x-scheme-handler/postman=Postman.desktop
