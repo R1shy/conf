@@ -1,0 +1,50 @@
+{
+  "name": "2022 Field",
+  "sourceUrl": "https://cad.onshape.com/documents/e491d0b03d0534894c2f50ee/w/746eeb7ee6910a6cbe50eb65/e/6f25d3aee97d55ef18af9901",
+  "rotations": [
+    {
+      "axis": "x",
+      "degrees": 90
+    }
+  ],
+  "widthInches": 648,
+  "heightInches": 324,
+  "driverStations": [
+    [-8.23, 2.341],
+    [-8.23, 0.512],
+    [-8.23, -1.317],
+    [8.23, -2.341],
+    [8.23, -0.512],
+    [8.23, 1.317]
+  ],
+  "gamePieces": [
+    {
+      "name": "Blue Cargo",
+      "rotations": [],
+      "position": [0, 0, 0],
+      "stagedObjects": [
+        "Tennis_Ball___Blue",
+        "Tennis_Ball___Blue_1",
+        "Tennis_Ball___Blue_2",
+        "Tennis_Ball___Blue_3",
+        "Tennis_Ball___Blue_4",
+        "Tennis_Ball___Blue_5",
+        "Tennis_Ball___Blue_7"
+      ]
+    },
+    {
+      "name": "Red Cargo",
+      "rotations": [],
+      "position": [0, 0, 0],
+      "stagedObjects": [
+        "Tennis_Ball___Red",
+        "Tennis_Ball___Red_1",
+        "Tennis_Ball___Red_2",
+        "Tennis_Ball___Red_3",
+        "Tennis_Ball___Red_4",
+        "Tennis_Ball___Red_5",
+        "Tennis_Ball___Red_6"
+      ]
+    }
+  ]
+}
