@@ -1,10 +1,10 @@
-local mode = {"i", "n"}
+mode = {"i", "n"}
 local opts = {}
 vim.keymap.set(mode, "<C-s>", "<Cmd>w<CR>")
-vim.keymap.set(mode, '<C-BS>', '<Cmd>BufferClose<CR>', opts)
-vim.keymap.set(mode, '<C-Left>', '<Cmd>BufferPrevious<CR>', opts)
-vim.keymap.set(mode, '<C-Right>', '<Cmd>BufferNext<CR>', opts)
-vim.keymap.set(mode, '<C-n>', '<Cmd>Neotree<CR>', opts)
+vim.keymap.set(mode, '<A-BS>', '<Cmd>BufferClose<CR>', opts)
+vim.keymap.set(mode, '<A-Left>', '<Cmd>BufferPrevious<CR>', opts)
+vim.keymap.set(mode, '<A-Right>', '<Cmd>BufferNext<CR>', opts)
+vim.keymap.set(mode, '<A-n>', '<Cmd>Neotree<CR>', opts)
 
 vim.cmd [[ 
 
@@ -26,10 +26,5 @@ vnoremap <Left> <Nop>
 vnoremap <Right> <Nop>
 vnoremap <Up> <Nop>
 ]]
-
-vim.keymap.set("", "<up>", "<nop>", { noremap = true })
-vim.keymap.set("", "<down>", "<nop>", { noremap = true })
-vim.keymap.set("i", "<up>", "<nop>", { noremap = true })
-vim.keymap.set("i", "<down>", "<nop>", { noremap = true })
 
 vim.opt.mouse = ""

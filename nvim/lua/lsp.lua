@@ -1,4 +1,3 @@
--- Initialize Packer and add plugins
 require('pckr').add({
   'hrsh7th/nvim-cmp',
   'hrsh7th/cmp-nvim-lsp',
@@ -11,7 +10,6 @@ require('pckr').add({
   'rafamadriz/friendly-snippets',
 })
 
--- Configure nvim-cmp
 local cmp = require'cmp'
 cmp.setup({
   snippet = {
@@ -36,26 +34,11 @@ cmp.setup({
 })
 
 local lspconfig = require('lspconfig')
-local servers = { 'clangd', 'rust_analyzer', 'jdtls', 'pyright', 'bashls', 'gopls', 'docker_compose_language_service', 'docker_language_server', 'fortls'}
+local servers = { 'lua_ls', 'clangd', 'rust_analyzer', 'jdtls', 'pyright', 'bashls', 'gopls'}
 for _, lsp in ipairs(servers) do
   vim.lsp.enable(lsp)
 end
 
-require'lspconfig'.lua_ls.setup {
-    settings = {
-        Lua = {
-            runtime = {
-                version = 'LuaJIT',
-            },
-            workspace = {
-                library = {
-                    "/home/rishy/repos/lovr-docs",
-                },
-                checkThirdParty = false,
-            },
-        },
-    },
-}
 require("luasnip.loaders.from_vscode").lazy_load()
 
 vim.diagnostic.config({
