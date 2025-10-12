@@ -1,4 +1,3 @@
--- Initialize Packer and add plugins
 require('pckr').add({
   'hrsh7th/nvim-cmp',
   'hrsh7th/cmp-nvim-lsp',
@@ -11,7 +10,6 @@ require('pckr').add({
   'rafamadriz/friendly-snippets',
 })
 
--- Configure nvim-cmp
 local cmp = require'cmp'
 cmp.setup({
   snippet = {
