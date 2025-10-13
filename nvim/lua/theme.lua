@@ -1,2 +1,2 @@
-require('pckr').add({ 'shaunsingh/nord.nvim' })
-vim.cmd [[colorscheme nord]]
+require('pckr').add({ 'catppuccin/nvim' })
+vim.cmd [[colorscheme catppuccin-frappe]]

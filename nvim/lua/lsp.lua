@@ -39,7 +39,7 @@ for _, lsp in ipairs(servers) do
 end
 
 require("luasnip.loaders.from_vscode").lazy_load()
-
+vim.lsp.inlay_hint.enable(true)
 vim.diagnostic.config({
   virtual_text = { current_line = true }
 })
