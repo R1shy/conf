@@ -13,5 +13,9 @@ export HSA_OVERRIDE_GFX_VERSION=10.3.0
 export PATH="/opt/gradle/gradle-9.0.0/bin/:$PATH"
 export PATH="/home/rishy/.cargo/bin/:$PATH"
 eval "$(mise activate bash)"
+. "$HOME/.cargo/env"
+if [ $(uname -r) == "6.12.47-gentoo-dist" ]; then
+	alias sysup='sudo emaint -a sync && sudo emerge -avuDN @world'	
+fi
 
 . "$HOME/.cargo/env"

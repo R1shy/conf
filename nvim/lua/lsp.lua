@@ -8,6 +8,7 @@ require('pckr').add({
   'saadparwaiz1/cmp_luasnip',
   'neovim/nvim-lspconfig',
   'rafamadriz/friendly-snippets',
+  'mfussenegger/nvim-jdtls'
 })
 
 local cmp = require'cmp'
@@ -27,16 +28,17 @@ cmp.setup({
   }),
   sources = cmp.config.sources({
     { name = 'nvim_lsp' },
-    { name = 'luasnip' },  -- For LuaSnip users
+    { name = 'luasnip' }, 
   }, {
     { name = 'buffer' },
   })
 })
 
-local servers = { 'clangd', 'rust_analyzer', 'jdtls', 'pyright', 'bashls', 'gopls', 'lua_ls', 'ts_ls'}
+local servers = { 'clangd', 'rust_analyzer', 'pyright', 'bashls', 'gopls', 'lua_ls'}
 for _, lsp in ipairs(servers) do
   vim.lsp.enable(lsp)
 end
+
 
 require("luasnip.loaders.from_vscode").lazy_load()
 vim.lsp.inlay_hint.enable(true)
