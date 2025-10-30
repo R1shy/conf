@@ -14,8 +14,11 @@ export PATH="/opt/gradle/gradle-9.0.0/bin/:$PATH"
 export PATH="/home/rishy/.cargo/bin/:$PATH"
 eval "$(mise activate bash)"
 . "$HOME/.cargo/env"
+export ANDROID_HOME="/home/rishy/android"
+export PATH="~/flutter/bin:$PATH"
 if [ $(uname -r) == "6.12.47-gentoo-dist" ]; then
 	alias sysup='sudo emaint -a sync && sudo emerge -avuDN @world'	
 fi
 
-. "$HOME/.cargo/env"
+
+
