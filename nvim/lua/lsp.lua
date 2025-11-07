@@ -8,10 +8,13 @@ require('pckr').add({
   'saadparwaiz1/cmp_luasnip',
   'neovim/nvim-lspconfig',
   'rafamadriz/friendly-snippets',
-  'mfussenegger/nvim-jdtls'
-})
+  'mfussenegger/nvim-jdtls',
+  {'nvim-flutter/flutter-tools.nvim',
+    requires = {
+        'nvim-lua/plenary.nvim',
+        'stevearc/dressing.nvim'}}})
 
-local cmp = require'cmp'
+local cmp = require("cmp")
 cmp.setup({
   snippet = {
     expand = function(args)
@@ -34,12 +37,12 @@ cmp.setup({
   })
 })
 
-local servers = { 'clangd', 'rust_analyzer', 'pyright', 'bashls', 'gopls', 'lua_ls'}
+local servers = { 'clangd', 'rust_analyzer', 'pyright', 'bashls', 'lua_ls', 'ts_ls', 'cssls', 'dartls'}
 for _, lsp in ipairs(servers) do
   vim.lsp.enable(lsp)
 end
 
-
+require("flutter-tools").setup({})
 require("luasnip.loaders.from_vscode").lazy_load()
 vim.lsp.inlay_hint.enable(true)
 vim.diagnostic.config({

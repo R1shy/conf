@@ -1,1 +1,0 @@
-{"binaries":["diesel"],"binary_aliases":{},"cdylibs":[],"cstaticlibs":[],"install_layout":"cargo-home","install_prefix":"/home/rishy/.cargo","modify_path":true,"provider":{"source":"cargo-dist","version":"0.29.0"},"source":{"app_name":"diesel_cli","name":"diesel","owner":"diesel-rs","release_type":"github"},"version":"2.3.2"}
