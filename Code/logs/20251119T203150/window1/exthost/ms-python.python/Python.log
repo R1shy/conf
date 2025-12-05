@@ -1,0 +1,27 @@
+2025-11-19 20:32:34.435 [info] Native locator: Refresh started
+2025-11-19 20:32:34.488 [info] Native locator: Refresh started
+2025-11-19 20:32:34.507 [info] > pyenv which python
+2025-11-19 20:32:34.507 [info] cwd: .
+2025-11-19 20:32:34.601 [info] Native locator: Refresh finished in 163 ms
+2025-11-19 20:32:34.626 [info] Python interpreter path: /bin/python3
+2025-11-19 20:32:36.276 [info] Starting Pylance language server.
+2025-11-19 20:32:40.969 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/tba/client.py
+2025-11-19 20:32:50.165 [info] Discover tests for workspace name: undefined - uri: /home/rishy/.config/Code/User/settings.json
+2025-11-19 20:32:53.023 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/tba/client.py
+2025-11-19 20:33:37.726 [info] Discover tests for workspace name: undefined - uri: /home/rishy/.config/Code/User/settings.json
+2025-11-19 20:33:39.941 [info] Discover tests for workspace name: undefined - uri: /home/rishy/.config/Code/User/settings.json
+2025-11-19 20:33:43.012 [info] Discover tests for workspace name: undefined - uri: /home/rishy/.config/Code/User/settings.json
+2025-11-19 20:33:45.873 [info] Discover tests for workspace name: undefined - uri: /home/rishy/.config/Code/User/settings.json
+2025-11-19 20:33:48.714 [info] Discover tests for workspace name: undefined - uri: /home/rishy/.config/Code/User/settings.json
+2025-11-19 20:33:52.432 [info] Discover tests for workspace name: undefined - uri: /home/rishy/.config/Code/User/settings.json
+2025-11-19 20:33:59.122 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/tba/client.py
+2025-11-19 20:34:57.657 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/models/matches.py
+2025-11-19 20:35:21.020 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/routes/events.py
+2025-11-19 20:35:41.796 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/routes/matches.py
+2025-11-19 20:36:01.826 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/services/event.py
+2025-11-19 20:36:28.372 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/services/match.py
+2025-11-19 20:36:35.927 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/routes/matches.py
+2025-11-19 20:37:00.187 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/services/tba.py
+2025-11-19 20:37:26.187 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/tba/client.py
+2025-11-19 20:37:49.918 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/tba/client.py
+2025-11-19 20:37:51.968 [info] Discover tests for workspace name: Beaklevision - uri: /home/rishy/Documents/Beaklevision/backend/src/tba/client.py

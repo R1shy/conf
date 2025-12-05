@@ -1,0 +1,78 @@
+4.12.2025 17:49:54 [Notification] Client logger started.
+4.12.2025 17:49:54 [Notification] Game Version: v1.21.5 (Stable)
+4.12.2025 17:49:54 [Notification] Process path: /home/username/snap/firefox/common/Downloads/vintagestory/Vintagestory
+4.12.2025 17:49:54 [Notification] Operating System: Linux (Ubuntu 24.04.3 LTS) [Kernel 6.8.0.88]
+4.12.2025 17:49:54 [Notification] CPU Cores: 16
+4.12.2025 17:49:54 [Notification] CPU: AMD Ryzen 7 3700X 8-Core Processor
+4.12.2025 17:49:54 [Notification] Available RAM: 15896 MB
+4.12.2025 17:49:55 [Notification] OpenAL Initialized. Available Mono/Stereo Sources: 255/1
+4.12.2025 17:49:55 [Notification] Graphics Card Vendor: AMD
+4.12.2025 17:49:55 [Notification] Graphics Card Version: 4.6 (Core Profile) Mesa 25.0.7-0ubuntu0.24.04.2
+4.12.2025 17:49:55 [Notification] Graphics Card Renderer: AMD Radeon RX 5700 XT (radeonsi, navi10, LLVM 20.1.2, DRM 3.57, 6.8.0-88-generic)
+4.12.2025 17:49:55 [Notification] Graphics Card ShadingLanguageVersion: 4.60
+4.12.2025 17:49:55 [Notification] GL.MaxVertexUniformComponents: 16384
+4.12.2025 17:49:55 [Notification] GL.MaxUniformBlockSize: 2147483647
+4.12.2025 17:49:55 [Notification] C# Framework: .net 8.0.21
+4.12.2025 17:49:55 [Notification] Cairo Graphics Version: 1.18.0
+4.12.2025 17:49:55 [Notification] OpenAL Version: 1.1 ALSOFT 1.23.0
+4.12.2025 17:49:55 [Notification] Zstd Version: 1.5.5
+4.12.2025 17:49:55 [Notification] Start discovering assets
+4.12.2025 17:49:55 [Notification] Found 32 base assets in category lang
+4.12.2025 17:49:55 [Notification] Found 0 base assets in category patches
+4.12.2025 17:49:55 [Notification] Found 24 base assets in category config
+4.12.2025 17:49:55 [Notification] Found 0 base assets in category worldproperties
+4.12.2025 17:49:55 [Notification] Found 49 base assets in category sounds
+4.12.2025 17:49:55 [Notification] Found 230 base assets in category shapes
+4.12.2025 17:49:55 [Notification] Found 84 base assets in category shaders
+4.12.2025 17:49:55 [Notification] Found 18 base assets in category shaderincludes
+4.12.2025 17:49:55 [Notification] Found 176 base assets in category textures
+4.12.2025 17:49:55 [Notification] Found 4 base assets in category music
+4.12.2025 17:49:55 [Notification] Found 0 base assets in category dialog
+4.12.2025 17:49:55 [Notification] Found 617 base assets in total
+4.12.2025 17:49:55 [Notification] Loading sounds
+4.12.2025 17:49:55 [Notification] (Re-)loaded frame buffers
+4.12.2025 17:49:55 [Notification] Loaded Shaderprogramm for render pass .
+4.12.2025 17:49:55 [Notification] Sounds loaded
+4.12.2025 17:49:55 [Notification] Begin loading shaders
+4.12.2025 17:49:55 [Notification] Load shaders now
+4.12.2025 17:49:55 [Notification] Loading shaders...
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass standard.
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass particlescube.
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass particlesquad.
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass sky.
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass nightsky.
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass woittest.
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass helditem.
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
+4.12.2025 17:49:56 [Notification] Loaded Shaderprogramm for render pass decals.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass final.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass gui.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass blur.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass findbright.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass godrays.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass autocamera.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass wireframe.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass entityanimated.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass luma.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass blit.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass chunkshadowmap.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass texture2texture.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass celestialobject.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass colorgrade.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass guigear.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass ssao.
+4.12.2025 17:49:57 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
+4.12.2025 17:49:58 [Notification] Loaded Shaderprogramm for render pass chunkliquiddepth.
+4.12.2025 17:49:58 [Notification] Cached session key is invalid, require login
+4.12.2025 17:50:11 [Notification] Will search the following paths for mods:
+4.12.2025 17:50:11 [Notification]     /home/username/snap/firefox/common/Downloads/vintagestory/Mods
+4.12.2025 17:50:11 [Notification]     /home/username/.config/VintagestoryData/Mods

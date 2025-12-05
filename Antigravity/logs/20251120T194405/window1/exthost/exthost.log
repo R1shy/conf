@@ -1,0 +1,17 @@
+2025-11-20 19:44:07.918 [info] Extension host with pid 60631 started
+2025-11-20 19:44:07.930 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onCommand:antigravity.importVSCodeRecentWorkspaces', root cause: google.antigravity
+2025-11-20 19:44:07.949 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onCommand:antigravity.importVSCodeRecentWorkspaces', root cause: google.antigravity
+2025-11-20 19:44:07.998 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-11-20 19:44:08.060 [info] ExtensionService#_doActivateExtension google.antigravity, startup: false, activationEvent: 'onCommand:antigravity.importVSCodeRecentWorkspaces'
+2025-11-20 19:44:08.985 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-20 19:44:09.297 [info] Eager extensions activated
+2025-11-20 19:44:09.313 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-11-20 19:44:09.315 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-11-20 19:44:09.319 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-20 19:44:09.320 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-20 19:44:14.153 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-20 19:44:14.159 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-20 19:44:14.205 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-20 19:44:14.246 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-20 19:45:49.154 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-20 19:45:49.171 [info] Extension host with pid 60631 exiting with code 0

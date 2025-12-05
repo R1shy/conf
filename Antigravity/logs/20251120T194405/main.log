@@ -1,0 +1,19 @@
+2025-11-20 19:44:05.562 [info] Using Cloud Code URL: https://daily-cloudcode-pa.sandbox.googleapis.com
+2025-11-20 19:44:05.565 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-11-20 19:44:05.641 [info] update#setState idle
+2025-11-20 19:44:05.643 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:36483
+2025-11-20 19:44:05.644 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9101/antigravity
+2025-11-20 19:44:05.743 [error] Error refreshing user status: No OAuth token available. User is not logged in, or token needs to be refreshed.
+2025-11-20 19:44:05.744 [info] AntigravityAuthMainService initialized
+2025-11-20 19:44:05.841 [info] Started initializing default profile extensions in extensions installation folder. file:///home/rishy/.antigravity/extensions
+2025-11-20 19:44:05.844 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/rishy/.antigravity/extensions
+2025-11-20 19:44:09.058 [warning] Failed to validate trajectory summaries for window 1 [unknown] Failed to fetch
+2025-11-20 19:44:09.380 [info] [AgentClientServer] Cascade initializing for worksapce 
+2025-11-20 19:44:09.380 [info] [AgentClientServer] Starting server
+2025-11-20 19:44:09.383 [info] [AgentClientServer] Read HTML file, length: 127
+2025-11-20 19:44:09.384 [info] [AgentClientServer] Cascade server started on http://localhost:9092
+2025-11-20 19:44:09.384 [info] [AgentClientServer] Cascade server started on port 9092
+2025-11-20 19:44:35.642 [info] update#setState checking for updates
+2025-11-20 19:44:35.715 [info] update#setState idle
+2025-11-20 19:45:49.171 [info] Extension host with pid 60631 exited with code: 0, signal: unknown.
+2025-11-20 19:45:50.173 [error] Extension host with pid 60631 still exists, forcefully killing it...

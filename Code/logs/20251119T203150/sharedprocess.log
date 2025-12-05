@@ -1,0 +1,27 @@
+2025-11-19 20:31:52.872 [info] Started initializing default profile extensions in extensions installation folder. file:///home/rishy/.vscode/extensions
+2025-11-19 20:31:52.991 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/rishy/.vscode/extensions Unable to create file 'vscode-userdata:/home/rishy/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2025-11-19 20:31:52.991 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/rishy/.vscode/extensions
+2025-11-19 20:32:26.096 [info] Getting Manifest... ms-python.python
+2025-11-19 20:32:26.135 [info] Installing extension: ms-python.python {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rishy/.vscode/extensions/extensions.json","path":"/home/rishy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.106.1","date":"2025-11-16T10:20:23.745Z"}}
+2025-11-19 20:32:26.286 [info] Getting Manifest... ms-python.vscode-pylance
+2025-11-19 20:32:26.300 [info] Getting Manifest... ms-python.debugpy
+2025-11-19 20:32:26.312 [info] Getting Manifest... ms-python.vscode-python-envs
+2025-11-19 20:32:26.326 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rishy/.vscode/extensions/extensions.json","path":"/home/rishy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.106.1","date":"2025-11-16T10:20:23.745Z"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-11-19 20:32:26.326 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rishy/.vscode/extensions/extensions.json","path":"/home/rishy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.106.1","date":"2025-11-16T10:20:23.745Z"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-11-19 20:32:26.326 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rishy/.vscode/extensions/extensions.json","path":"/home/rishy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.106.1","date":"2025-11-16T10:20:23.745Z"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-11-19 20:32:28.389 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 971ms.
+2025-11-19 20:32:28.398 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 1199ms.
+2025-11-19 20:32:28.624 [info] Extracted extension to file:///home/rishy/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64: ms-python.vscode-python-envs
+2025-11-19 20:32:28.635 [info] Renamed to /home/rishy/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64
+2025-11-19 20:32:28.825 [info] Extracted extension to file:///home/rishy/.vscode/extensions/ms-python.debugpy-2025.16.0: ms-python.debugpy
+2025-11-19 20:32:28.835 [info] Renamed to /home/rishy/.vscode/extensions/ms-python.debugpy-2025.16.0
+2025-11-19 20:32:29.034 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 589ms.
+2025-11-19 20:32:29.926 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 645ms.
+2025-11-19 20:32:30.034 [info] Extracted extension to file:///home/rishy/.vscode/extensions/ms-python.python-2025.18.0-linux-x64: ms-python.python
+2025-11-19 20:32:30.098 [info] Renamed to /home/rishy/.vscode/extensions/ms-python.python-2025.18.0-linux-x64
+2025-11-19 20:32:33.128 [info] Extracted extension to file:///home/rishy/.vscode/extensions/ms-python.vscode-pylance-2025.9.1: ms-python.vscode-pylance
+2025-11-19 20:32:33.319 [info] Renamed to /home/rishy/.vscode/extensions/ms-python.vscode-pylance-2025.9.1
+2025-11-19 20:32:33.336 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/rishy/.vscode/extensions/extensions.json
+2025-11-19 20:32:33.336 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/rishy/.vscode/extensions/extensions.json
+2025-11-19 20:32:33.336 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/rishy/.vscode/extensions/extensions.json
+2025-11-19 20:32:33.336 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/rishy/.vscode/extensions/extensions.json

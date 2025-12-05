@@ -1,0 +1,16 @@
+
+--- 2025-11-27T02:34:59.985Z debug
+🪵  Writing logs to "/home/rishy/.config/.wrangler/logs/wrangler-2025-11-27_02-34-59_673.log"
+---
+
+--- 2025-11-27T02:34:59.985Z debug
+local dev variables file not found at ".dev.vars". Continuing... For more details, refer to https://developers.cloudflare.com/workers/wrangler/system-environment-variables/
+---
+
+--- 2025-11-27T02:34:59.986Z debug
+.env file not found at "/home/rishy/Documents/iwishxwasanapp/.env". Continuing... For more details, refer to https://developers.cloudflare.com/workers/wrangler/system-environment-variables/
+---
+
+--- 2025-11-27T02:34:59.986Z debug
+.env file not found at "/home/rishy/Documents/iwishxwasanapp/.env.local". Continuing... For more details, refer to https://developers.cloudflare.com/workers/wrangler/system-environment-variables/
+---

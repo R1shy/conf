@@ -1,0 +1,5 @@
+2025/11/23-11:08:27.934 2ee9 Reusing MANIFEST /home/rishy/.config/Antigravity/Local Storage/leveldb/MANIFEST-000001
+2025/11/23-11:08:27.945 2ee9 Recovering log #6
+2025/11/23-11:08:27.946 2ee9 Level-0 table #9: started
+2025/11/23-11:08:27.948 2ee9 Level-0 table #9: 32388 bytes OK
+2025/11/23-11:08:27.949 2ee9 Delete type=0 #6

@@ -1,0 +1,21 @@
+2025-11-20 18:43:38.870 [info] (Client) Pylance client (2025.9.1) started with python extension (2025.18.0)
+2025-11-20 18:43:39.456 [info] (6110) Server root directory: file:///home/rishy/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-20 18:43:39.456 [info] (6110) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-20 18:43:39.461 [info] (6110) Starting service instance "Beaklevision" for workspace "/home/rishy/Documents/Beaklevision"
+2025-11-20 18:43:39.531 [info] (6110) Starting Mcp server id:4328 ...
+2025-11-20 18:43:39.560 [info] (6110) Setting environmentName for service "Beaklevision": "3.12.3 (global)"
+2025-11-20 18:43:39.560 [info] (6110) Setting pythonPath for service "Beaklevision": "/bin/python3"
+2025-11-20 18:43:39.560 [info] (6110) No include entries specified; assuming /home/rishy/Documents/Beaklevision
+2025-11-20 18:43:39.561 [info] (6110) Auto-excluding **/node_modules
+2025-11-20 18:43:39.561 [info] (6110) Auto-excluding **/__pycache__
+2025-11-20 18:43:39.561 [info] (6110) Auto-excluding **/.*
+2025-11-20 18:43:39.588 [info] (6110) Assuming Python version 3.12.3.final.0
+2025-11-20 18:43:39.684 [info] (6110) Settings have not changed. Skipping update.
+2025-11-20 18:43:40.127 [info] (6110) Found 48 source files
+2025-11-20 18:43:40.345 [info] (6110) BG: Priority queue background worker(2) root directory: file:///home/rishy/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-20 18:43:40.345 [info] (6110) BG: Priority queue background worker(2) started
+2025-11-20 18:43:40.468 [info] (6110) BG: Indexer background runner(3) root directory: file:///home/rishy/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist (index)
+2025-11-20 18:43:40.468 [info] (6110) BG: Indexing(3) started
+2025-11-20 18:43:41.276 [info] (6110) BG: scanned(3) 480 files over 1 exec env
+2025-11-20 18:43:41.642 [info] (6110) BG: indexed(3) 480 files over 1 exec env
+2025-11-20 18:43:41.709 [info] (6110) BG: Indexing finished(3).

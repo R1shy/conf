@@ -1,0 +1,19 @@
+ConfigFile = '/home/rishy/.config/lazysql/config.toml'
+
+[application]
+DefaultPageSize = 300
+DisableSidebar = false
+SidebarOverlay = false
+MaxQueryHistoryPerConnection = 100
+
+[[database]]
+Name = 'meowmeow'
+URL = 'postgres://meow:meow@localhost:8080/meowmeow?sslmode=disable'
+Provider = 'postgres'
+Username = ''
+Password = ''
+Hostname = ''
+Port = ''
+DBName = 'meowmeow'
+URLParams = ''
+Commands = []

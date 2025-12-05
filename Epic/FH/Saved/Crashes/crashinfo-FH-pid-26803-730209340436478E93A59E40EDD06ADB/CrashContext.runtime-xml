@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>52CE868136644E808BC58C4BB4EB8113</ExecutionGuid>
+<CrashGUID>UE4CC-Linux-6440F7F7D8194F8B87EBF56DB8FE17CF_0000</CrashGUID>
+<IsEnsure>false</IsEnsure>
+<IsAssert>false</IsAssert>
+<CrashType>Crash</CrashType>
+<ErrorMessage>Caught signal 11 Segmentation fault</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>26803</ProcessId>
+<SecondsSinceStart>302</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE4-FH</GameName>
+<ExecutableName>FH-Linux-Shipping</ExecutableName>
+<BuildConfiguration>Shipping</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<Symbols>**UE4*Release-4.27-CL-18319896-Linux-Shipping</Symbols>
+<PlatformName>LinuxNoEditor</PlatformName>
+<PlatformNameIni>Linux</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.27.2-18319896+++UE4+Release-4.27</EngineVersion>
+<CommandLine> FH</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>en_US_POSIX</AppDefaultLocale>
+<BuildVersion>++UE4+Release-4.27-CL-18319896</BuildVersion>
+<IsUE4Release>true</IsUE4Release>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>/home/rishy/.steam/debian-installation/steamapps/common/FUCK HITLER/FH/Binaries/Linux/</BaseDir>
+<RootDir>/home/rishy/.steam/debian-installation/steamapps/common/FUCK HITLER/</RootDir>
+<MachineId>93F3B28A5DDA45AC894D9A7A9FD4305A-000003E8</MachineId>
+<LoginId>93f3b28a5dda45ac894d9a7a9fd4305a-000003e8</LoginId>
+<EpicAccountId></EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>8</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>AuthenticAMD</Misc.CPUVendor>
+<Misc.CPUBrand>AMD Ryzen 7 3700X 8-Core Processor             </Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>GenericGPUBrand</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>GenericOSVersionLabel</Misc.OSVersionMajor>
+<Misc.OSVersionMinor>GenericOSSubVersionLabel</Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>16668708864</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>4294963200</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>11376631808</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>4270321664</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>1265573888</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>1265573888</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>4984750080</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>4992712704</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+ FH-Linux-Shipping 0x0000000000200000 + 4068aa6         
+ FH-Linux-Shipping 0x0000000000200000 + 4068cb9         
+ FH-Linux-Shipping 0x0000000000200000 + 40f50d8         
+ FH-Linux-Shipping 0x0000000000200000 + 414e331         
+ FH-Linux-Shipping 0x0000000000200000 + 414e3ca         
+ FH-Linux-Shipping 0x0000000000200000 + 2afca96         
+ FH-Linux-Shipping 0x0000000000200000 + 2afc6be         
+ FH-Linux-Shipping 0x0000000000200000 + 413eda2         
+ FH-Linux-Shipping 0x0000000000200000 + 2b4b637         
+ FH-Linux-Shipping 0x0000000000200000 + 2b2e010         
+           libc.so 0x000071fd7a400000 + 9caa4           
+           libc.so 0x000071fd7a400000 + 129c6c          
+</PCallStack>
+<PCallStackHash>5D5FFEE68398BBA1A19FF1527289334A5FDEF92E</PCallStackHash>
+</RuntimeProperties>
+<PlatformProperties>
+<CrashSignal>11</CrashSignal>
+<CrashSignalName>Segmentation fault</CrashSignalName>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+<EngineData>
+<RHI.RHIName>Vulkan</RHI.RHIName>
+<RHI.AdapterName>AMD Radeon RX 5700 XT (RADV NAVI10)</RHI.AdapterName>
+<RHI.UserDriverVersion>25.0.7 (0x6400007)</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>1.4.305 (0x404131)</RHI.InternalDriverVersion>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+<DeviceProfile.Name>LinuxNoEditor</DeviceProfile.Name>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>

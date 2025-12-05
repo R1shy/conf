@@ -1,0 +1,8 @@
+2025-11-20 18:43:33.913 [info] update#setState idle
+2025-11-20 18:43:35.220 [error] vscode-file: Refused to load resource /snap/code/213/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/snap/code/213/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff)
+2025-11-20 18:43:44.302 [info] Extension host with pid 5538 exited with code: 0, signal: unknown.
+2025-11-20 18:43:44.357 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 5553]: crashed with code 15 and reason 'killed'
+2025-11-20 18:44:03.811 [info] update#setState checking for updates
+2025-11-20 18:44:03.812 [info] update#setState idle
+2025-11-20 18:48:16.361 [info] Extension host with pid 6214 exited with code: 0, signal: unknown.
+2025-11-20 18:48:16.436 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 6199]: crashed with code 15 and reason 'killed'
