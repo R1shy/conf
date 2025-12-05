@@ -5,20 +5,17 @@ alias gaa='g add .'
 alias gcm='g commit -m'
 alias gp='git push'
 alias gpl='git pull'
-export EDITOR=nvim
-export PATH="/home/rishy/.local/bin:$PATH"
-export PS1="\u@\h-> "
-export ROCM_PATH=/opt/rocm
-export HSA_OVERRIDE_GFX_VERSION=10.3.0
-export PATH="/opt/gradle/gradle-9.0.0/bin/:$PATH"
-export PATH="/home/rishy/.cargo/bin/:$PATH"
-eval "$(mise activate bash)"
 . "$HOME/.cargo/env"
-export ANDROID_HOME="/home/rishy/android"
-export PATH="~/flutter/bin:$PATH"
-if [ $(uname -r) == "6.12.47-gentoo-dist" ]; then
-	alias sysup='sudo emaint -a sync && sudo emerge -avuDN @world'	
-fi
-
-
-
+export PATH="/home/rishy/.cargo/bin/:$PATH"
+export PATH="/home/rishy/.local/bin:$PATH"
+export PATH="/opt/nvim/bin:$PATH"
+export PATH="/opt/kitty/kitty/launcher:$PATH"
+export PATH="/opt/cmake/bin:$PATH"
+export PATH="/opt/zig/:$PATH"
+export PATH="/home/rishy/Android/Sdk/emulator:$PATH"
+export PATH="/opt/jdtls/bin:$PATH"
+export PATH="/opt/gradle/bin:$PATH"
+export PATH="/opt/vs/Vintagestory:$PATH"
+export PS1="\u@\h-> "
+eval "$(mise activate bash)"
+export EDITOR=nvim
