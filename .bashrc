@@ -7,6 +7,7 @@ alias gpl='git pull'
 alias gco='git checkout'
 alias gcb='git checkout -b'
 export PATH="/home/rishy/.local/bin:$PATH"
+export PATH="/home/rishy/.cargo/bin:$PATH"
 export PATH="/opt/nvim/bin:$PATH"
 export PATH="/opt/kitty/kitty/launcher:$PATH"
 export PATH="/opt/cmake/bin:$PATH"
