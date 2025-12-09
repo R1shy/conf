@@ -1,4 +1,0 @@
-2025-12-07 19:48:13.754 [info] Log level: Info
-2025-12-07 19:48:24.678 [info] Log level: Info
-2025-12-07 19:48:27.154 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-12-07 19:48:28.638 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for gwhs/2026-rebuilt: Error: No GitHub authentication session available.
