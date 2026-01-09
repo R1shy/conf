@@ -1,5 +1,0 @@
-2025-12-25 20:36:56,686 DEBUG    root            Loaded Command Group: ['gcloud', 'projects']
-2025-12-25 20:36:56,687 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'create']
-2025-12-25 20:36:56,687 ERROR    root            (gcloud.projects.create) argument PROJECT_ID: Bad value [messager
-
-]: Project IDs are immutable and can be set only during project creation. They must start with a lowercase letter and can have lowercase ASCII letters, digits or hyphens. Project IDs must be between 6 and 30 characters.
