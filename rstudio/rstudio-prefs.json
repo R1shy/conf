@@ -1,0 +1,17 @@
+{
+    "initial_working_directory": "~",
+    "auto_detect_indentation": true,
+    "insert_native_pipe_operator": true,
+    "continue_comments_on_newline": true,
+    "editor_theme": "catppuccin-frappe",
+    "git_signed_commits": true,
+    "posix_terminal_shell": "bash",
+    "text_rendering": "geometricPrecision",
+    "python_type": "system",
+    "python_version": "3.14.2",
+    "python_path": "/opt/homebrew/bin/python3.14",
+    "editor_keybindings": "vim",
+    "default_project_location": "~/Documents",
+    "new_proj_git_init": true,
+    "new_proj_use_renv": true
+}

@@ -7,4 +7,10 @@ return {
   'L3MON4D3/LuaSnip',
   'saadparwaiz1/cmp_luasnip',
   'neovim/nvim-lspconfig',
-  'rafamadriz/friendly-snippets'}
+  'rafamadriz/friendly-snippets',
+{
+  "pmizio/typescript-tools.nvim",
+  dependencies = { "nvim-lua/plenary.nvim", "neovim/nvim-lspconfig" },
+  opts = {},
+}
+  }

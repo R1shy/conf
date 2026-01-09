@@ -1,0 +1,10 @@
+2025-12-25 20:40:15,013 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2025-12-25 20:40:15,048 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'set']
+2025-12-25 20:40:15,048 DEBUG    root            Running [gcloud.config.set] with arguments: [SECTION/PROPERTY: "project", VALUE: "messager"]
+2025-12-25 20:40:15,061 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): cloudresourcemanager.googleapis.com:443
+2025-12-25 20:40:15,983 DEBUG    urllib3.connectionpool https://cloudresourcemanager.googleapis.com:443 "GET /v1/projects/messager?alt=json HTTP/1.1" 403 None
+2025-12-25 20:40:15,987 WARNING  root            [kadlecekemma@gmail.com] does not have permission to access projects instance [messager] (or it may not exist): The caller does not have permission. This command is authenticated as kadlecekemma@gmail.com which is the active account specified by the [core/account] property
+2025-12-25 20:40:29,233 INFO     ___FILE_ONLY___ Updated property [core/project].
+
+2025-12-25 20:40:29,235 DEBUG    root            Chosen display Format:default
+2025-12-25 20:40:29,236 INFO     root            Display format: "default"
