@@ -1,0 +1,29 @@
+@import "mocha.css";
+
+* {
+  font-family: FantasqueSansMono Nerd Font;
+  font-size: 17px;
+  min-height: 0;
+}
+
+#waybar {
+  background: @surface0;
+  color: @text;
+  margin: 5px 5px;
+}
+
+
+#clock {
+  background-color: @surface1;
+}
+
+#clock {
+  color: @blue;
+  border-radius: 1rem 1rem 1rem 1rem;
+  margin: 10px 0px 10px 0px;
+  padding: 10px 0px 10px 0px; 
+}
+
+#network {
+	padding-right: 50px;
+}
