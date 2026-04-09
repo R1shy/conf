@@ -1,0 +1,323 @@
+﻿{
+    "isConnectedToGameConfig": false,
+    "teamName": "RAVEN",
+    "teamColor": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "skin": {
+        "sourceDirectory": "",
+        "sourceWorkshopId": 0,
+        "name": ""
+    },
+    "availableWeapons": [
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": ".357 CONDOR",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "76 EAGLE",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "AMMO BAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "DAGGER",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "FRAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "GREASER",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "M1 GARRET",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "MEDIC BAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "PATRIOT",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "RIPCORD",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "RK-44",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SABRE",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "S-IND7",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SLAM-R",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SL-DEFENDER",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SMOKE GRENADE",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SQUAD LEADER KIT",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "WRENCH",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "AUTOMATICO",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "C4",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "INGRESS 700",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "JOLT-20-S",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "PATRIOT GL",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "QUICKSILVER",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "RECON LRR",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SCALPEL",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SIGNAL DMR",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SPEARHEAD",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "THUMPER",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "AUTOMATICO AKIMBO",
+            "rarityTier": 2
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "BUNDLE O' BUSS",
+            "rarityTier": 2
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "PATRIOT TAC",
+            "rarityTier": 2
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "S-IND7 [SUP]",
+            "rarityTier": 2
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SUPERNOVA",
+            "rarityTier": 2
+        }
+    ],
+    "vehicleConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "Jeep",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "Jeep MG",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "New Quadbike",
+            "rarityTier": 0
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "Tank",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "Attack Helicopter",
+            "rarityTier": 0
+        },
+        {
+            "type": 5,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "plane",
+            "rarityTier": 0
+        },
+        {
+            "type": 6,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "rhib",
+            "rarityTier": 0
+        },
+        {
+            "type": 7,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "Attack Boat",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "Bomber",
+            "rarityTier": 0
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "Blackhawk",
+            "rarityTier": 0
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "APC",
+            "rarityTier": 0
+        }
+    ],
+    "turretConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "Machine Gun",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "TOW",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "Anti Air Gun",
+            "rarityTier": 0
+        }
+    ]
+}

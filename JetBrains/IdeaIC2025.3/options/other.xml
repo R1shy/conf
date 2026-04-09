@@ -1,0 +1,113 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="JetBrains Runtime 25.0.2" />
+        <option name="installDir" value="/home/rishy/.jdks/jbr-25.0.2" />
+        <option name="sha256" value="2fa05407c374396b80467a6f0372b93081b8f0729206c493aa0295444276e324" />
+        <option name="url" value="https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.2-linux-x64-b329.111.tar.gz" />
+        <option name="versionText" value="25.0.2" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "InstalledPluginsSearchHistory": "idea\nideav\nideavi\nideavim\nide",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "MarketplacePluginsSearchHistory": "/suggested\ncatp\ncatpu\ncat\nide",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "NewProjectWizard.groupIdState": "net.rishy",
+    "NextRunPlatformUpdateBuild": "IC-261.22158.277",
+    "NextRunPlatformUpdateSelfBuild": "IC-253.32098.37",
+    "NextRunPlatformUpdateVersion": "2026.1",
+    "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "SettingsSearchHistory": "Gradle JVM:\nicons",
+    "TerminalCompletionPopupPromotion.shownCount": "3",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.demonwav.mcdev.creator.custom.types.BooleanCreatorProperty.property.ACCEPT_EULA.boolean": "false",
+    "com.demonwav.mcdev.creator.custom.types.BooleanCreatorProperty.property.INCLUDE_PLUGIN_BOOTSTRAP.boolean": "false",
+    "com.demonwav.mcdev.creator.custom.types.BooleanCreatorProperty.property.INCLUDE_PLUGIN_LOADER.boolean": "false",
+    "com.demonwav.mcdev.creator.custom.types.BooleanCreatorProperty.property.JAVA_PLUGIN_LOADER.boolean": "true",
+    "com.demonwav.mcdev.creator.custom.types.BooleanCreatorProperty.property.USE_PAPER_MANIFEST.boolean": "false",
+    "com.demonwav.mcdev.creator.custom.types.BooleanCreatorProperty.property.USE_VERSION_CATALOG.boolean": "false",
+    "com.demonwav.mcdev.creator.custom.types.BooleanCreatorProperty.property.forge.USE_MIXINS": "false",
+    "com.demonwav.mcdev.creator.custom.types.BooleanCreatorProperty.property.neoforge.USE_MIXINS": "false",
+    "com.demonwav.mcdev.creator.custom.types.BuildSystemCoordinatesCreatorProperty.property.BUILD_COORDS.build_system_coordinates": "org.example:untitled:1.0-SNAPSHOT",
+    "com.demonwav.mcdev.creator.custom.types.ForgeVersionsCreatorProperty.property.VERSIONS.forge_versions": "26.1.1 63.0.1",
+    "com.demonwav.mcdev.creator.custom.types.GradlePluginSelectorCreatorProperty.property.GREMLIN_PLUGIN.gradle_plugin": "false 0.0.9",
+    "com.demonwav.mcdev.creator.custom.types.GradlePluginSelectorCreatorProperty.property.PAPERWEIGHT_USERDEV_PLUGIN.gradle_plugin": "false 2.0.0-beta.21",
+    "com.demonwav.mcdev.creator.custom.types.GradlePluginSelectorCreatorProperty.property.RESOURCE_FACTORY_PLUGIN.gradle_plugin": "false 1.3.1",
+    "com.demonwav.mcdev.creator.custom.types.GradlePluginSelectorCreatorProperty.property.RUN_PAPER_PLUGIN.gradle_plugin": "true 3.0.2",
+    "com.demonwav.mcdev.creator.custom.types.GradlePluginSelectorCreatorProperty.property.SHADOW_PLUGIN.gradle_plugin": "false 9.4.1",
+    "com.demonwav.mcdev.creator.custom.types.JdkCreatorProperty.property.JDK.jdk": "",
+    "com.demonwav.mcdev.creator.custom.types.MavenArtifactVersionCreatorProperty.property.KOTLIN_VERSION.maven_artifact_version": "2.4.0-Beta1",
+    "com.demonwav.mcdev.creator.custom.types.NeoForgeVersionsCreatorProperty.property.VERSIONS.neoforge_versions": "1.26.1.1 26.1.1.10-beta 7.1.21 2.0.141",
+    "com.demonwav.mcdev.creator.custom.types.PaperVersionCreatorProperty.property.MC_VERSION.paper_versions": "26.1.1",
+    "com.demonwav.mcdev.creator.custom.types.ParchmentCreatorProperty.property.PARCHMENT.parchment": "true 2025.12.21-nightly-SNAPSHOT 1.21.11 false false",
+    "com.demonwav.mcdev.creator.custom.types.StringCreatorProperty.property.MOD_NAME.string": "untitled",
+    "com.demonwav.mcdev.creator.custom.types.StringCreatorProperty.property.PLUGIN_NAME.string": "untitled",
+    "com.demonwav.mcdev.creator.platformtype.ModPlatformStep.selectedStep": "Forge",
+    "com.demonwav.mcdev.creator.platformtype.PlatformTypeStep.selectedStep": "Mod",
+    "com.demonwav.mcdev.platform.forge.creator.ForgeBuildSystemStep.selectedStep": "Gradle",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Gradle",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "experimental.ui.first.switch": "true",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "253.32098.37",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "ide.islands.ab3": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "253.32098.37-IJ",
+    "jdk.selected.JAVA_MODULE": "JetBrains Runtime 25.0.2",
+    "kotlin.lastUpdateCheck": "1775489239256",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "onboarding.generation.number": "2",
+    "previousColorScheme": "_@user_Catppuccin Frappé",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "registry.to.advanced.settings.migration.build": "IC-253.32098.37",
+    "terminal.gen.one.option.visible": "false",
+    "terminal.is.new.user": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/rishy/Documents/battlecraft/run"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.demonwav.mcdev.nbt.filetype.NbtFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="battlecraft-history7" project-path="/home/rishy/Documents/battlecraft" last-access-time="1775533958984" />
+      <command-history-file filename="battlecraft-history8" project-path="/home/rishy/Documents/battlecraft" last-access-time="1775533385456" />
+      <command-history-file filename="battlecraft-history" project-path="/home/rishy/Documents/battlecraft" last-access-time="1775531653099" />
+      <command-history-file filename="battlecraft-history1" project-path="/home/rishy/Documents/battlecraft" last-access-time="1775533312697" />
+      <command-history-file filename="battlecraft-history2" project-path="/home/rishy/Documents/battlecraft" last-access-time="1775533370085" />
+      <command-history-file filename="battlecraft-history11" project-path="/home/rishy/Documents/battlecraft" last-access-time="1775533711346" />
+      <command-history-file filename="battlecraft-history10" project-path="/home/rishy/Documents/battlecraft" last-access-time="1775533566469" />
+    </command-history-files>
+  </component>
+</application>

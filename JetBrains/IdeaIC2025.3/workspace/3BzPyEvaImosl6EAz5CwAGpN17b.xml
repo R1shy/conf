@@ -1,0 +1,584 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="BattleCraft" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2moxrbilsf2k4" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 6,
+      "lastUsed": 1775522827198
+    },
+    "Kotlin": {
+      "usageCount": 4,
+      "lastUsed": 1775520547846
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1775521232396
+    },
+    "Shell Script": {
+      "usageCount": 2,
+      "lastUsed": 1775521919433
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/rishy/Documents/BattleCraft/src/main/java/net/rishy/Main.java",
+    "/home/rishy/Documents/BattleCraft/build.gradle.kts",
+    "/home/rishy/Documents/BattleCraft/hot-reload.sh",
+    "/home/rishy/Documents/BattleCraft/src/main/java/net/rishy/BattleCraft.java",
+    "/home/rishy/Documents/BattleCraft/src/main/java/net/rishy/items/Pistol.java"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="6" lastUsage="1775522827198" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="2" lastUsage="1775521919433" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1775521232396" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="4" lastUsage="1775520547846" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BattleCraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="BattleCraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/build}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BattleCraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/build}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/build/libs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BattleCraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BattleCraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="BattleCraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BattleCraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main/java/net/rishy}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BattleCraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main/java/net/rishy}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main/java/net/rishy/items}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="BattleCraft" />
+            <item name="BattleCraft" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="BattleCraft" />
+              <item name="dir{file:///home/rishy/Documents/BattleCraft}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_folder_gradle.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text=".gradle" />
+                <item name="dir{file:///home/rishy/Documents/BattleCraft/.gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_folder_intellij.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/rishy/Documents/BattleCraft/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.settings" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_folder_config.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text=".settings" />
+                <item name="dir{file:///home/rishy/Documents/BattleCraft/.settings}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bin" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_folder_dist.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="bin" />
+                <item name="dir{file:///home/rishy/Documents/BattleCraft/bin}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_folder_dist.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="build" />
+                <item name="dir{file:///home/rishy/Documents/BattleCraft/build}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/build/classes" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="classes" />
+                  <item name="dir{file:///home/rishy/Documents/BattleCraft/build/classes}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/build/generated" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="generated" />
+                  <item name="dir{file:///home/rishy/Documents/BattleCraft/build/generated}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/build/libs" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/mocha_folder_lib.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="libs" />
+                  <item name="dir{file:///home/rishy/Documents/BattleCraft/build/libs}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/build/libs/worlds" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="worlds" />
+                    <item name="dir{file:///home/rishy/Documents/BattleCraft/build/libs/worlds}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/build/libs/BattleCraft-1.0-SNAPSHOT.jar" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/mocha_java-jar.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="BattleCraft-1.0-SNAPSHOT.jar" />
+                    <item name="BattleCraft-1.0-SNAPSHOT.jar" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/build/reports" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="reports" />
+                  <item name="dir{file:///home/rishy/Documents/BattleCraft/build/reports}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/build/resources" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="resources" />
+                  <item name="dir{file:///home/rishy/Documents/BattleCraft/build/resources}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/build/tmp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/mocha_folder_temp.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="tmp" />
+                  <item name="dir{file:///home/rishy/Documents/BattleCraft/build/tmp}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_folder_gradle.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="gradle" />
+                <item name="dir{file:///home/rishy/Documents/BattleCraft/gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/logs" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="logs" />
+                <item name="dir{file:///home/rishy/Documents/BattleCraft/logs}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/resourcepack" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="resourcepack" />
+                <item name="dir{file:///home/rishy/Documents/BattleCraft/resourcepack}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_folder_src.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="src" />
+                <item name="dir{file:///home/rishy/Documents/BattleCraft/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/assets/icons/platform/Adventure.png" iconPlugin="com.demonwav.minecraft-dev" isLeaf="false" text="main" />
+                  <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="java" />
+                    <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/net/rishy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="net.rishy" />
+                      <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main/java/net/rishy}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/net/rishy/items" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="items" />
+                        <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main/java/net/rishy/items}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/net/rishy/items/Pistol.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="/jetbrains_icons/icons/mocha_java-class.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="Pistol" />
+                          <item name="Pistol" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/net/rishy/BattleCraft.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/mocha_java-class.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="BattleCraft" />
+                        <item name="BattleCraft" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/resources" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/mocha__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="resources" />
+                    <item name="dir{file:///home/rishy/Documents/BattleCraft/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.classpath" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha__file.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".classpath" />
+                <item name=".classpath" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_git.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.project" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_xml.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".project" />
+                <item name=".project" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build.gradle.kts" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_kotlin.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="build.gradle.kts" />
+                <item name="build.gradle.kts" type="24436e51:KtFileTreeNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_gradle.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="gradlew" />
+                <item name="gradlew" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew.bat" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_batch.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="gradlew.bat" />
+                <item name="gradlew.bat" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/hot-reload.sh" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_bash.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="hot-reload.sh" />
+                <item name="hot-reload.sh" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/hotswap-agent.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_properties.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="hotswap-agent.properties" />
+                <item name="hotswap-agent.properties" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/settings.gradle.kts" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/mocha_kotlin.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="settings.gradle.kts" />
+                <item name="settings.gradle.kts" type="24436e51:KtFileTreeNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.BattleCraft [build]" />
+    </history>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$">
+        <option name="shellCommand">
+          <option value="/usr/bin/bash" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+      <TerminalSessionPersistedTab name="Local (2)" workingDirectory="$PROJECT_DIR$">
+        <option name="shellCommand">
+          <option value="/usr/bin/bash" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33005318" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Bookmarks" order="3" side_tool="true" weight="0.33005318" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33045456" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33045456" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.33045456" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.33045456" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.33045456" left="0.33005318" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Bookmarks</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="289" key="#Plugins" timestamp="1775489340027">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="289" key="#Plugins/0.0.1920.1200@0.0.1920.1200" timestamp="1775489340027" />
+    <state x="555" y="291" width="800" height="647" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1775521871197">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="555" y="291" width="800" height="647" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1775521871197" />
+    <state x="585" y="367" width="750" height="525" key="#com.intellij.ide.util.MemberChooser" timestamp="1775523288133">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="585" y="367" width="750" height="525" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1200@0.0.1920.1200" timestamp="1775523288133" />
+    <state width="1798" height="321" key="GridCell.Tab.0.bottom" timestamp="1775526037679">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1798" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1775526037679" />
+    <state width="1798" height="321" key="GridCell.Tab.0.center" timestamp="1775526037679">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1798" height="321" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1775526037679" />
+    <state width="1798" height="321" key="GridCell.Tab.0.left" timestamp="1775526037679">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1798" height="321" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1775526037679" />
+    <state width="1798" height="321" key="GridCell.Tab.0.right" timestamp="1775526037679">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1798" height="321" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1775526037679" />
+    <state x="469" y="280" key="SettingsEditor" timestamp="1775489320757">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="469" y="280" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1775489320757" />
+    <state x="499" y="340" width="922" height="606" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$showDialogImpl$dialog$1" timestamp="1775520831604">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="499" y="340" width="922" height="606" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$showDialogImpl$dialog$1/0.0.1920.1200@0.0.1920.1200" timestamp="1775520831604" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hot-reload.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-651">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/rishy/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/rishy/items/Pistol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/rishy/BattleCraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5207#5208#0" expanded="true" />
+            <element signature="e#5241#5242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

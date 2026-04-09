@@ -1,0 +1,44 @@
+﻿{
+    "teamFilePaths": [
+        "00(CLONED)-DEFAULT-T0.rtc",
+        "00(CLONED)-DEFAULT-T1.rtc"
+    ],
+    "teamInfo": [],
+    "mutatorInfo": [],
+    "team0UnlinkedInfo": {
+        "isConnectedToGameConfig": false,
+        "teamName": "",
+        "teamColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+        },
+        "skin": {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": ""
+        },
+        "availableWeapons": [],
+        "vehicleConfiguration": [],
+        "turretConfiguration": []
+    },
+    "team1UnlinkedInfo": {
+        "isConnectedToGameConfig": false,
+        "teamName": "",
+        "teamColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+        },
+        "skin": {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": ""
+        },
+        "availableWeapons": [],
+        "vehicleConfiguration": [],
+        "turretConfiguration": []
+    }
+}
